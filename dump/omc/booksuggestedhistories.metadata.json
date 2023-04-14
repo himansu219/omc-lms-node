@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"dc58f30721704fb1b11704bf0d5dc44c","collectionName":"booksuggestedhistories","type":"collection"}

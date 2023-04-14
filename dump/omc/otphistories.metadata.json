@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"336a469ae3014e6ba65fd6005643f29f","collectionName":"otphistories","type":"collection"}

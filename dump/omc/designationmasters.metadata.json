@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"referenceNumber":{"$numberInt":"1"}},"name":"referenceNumber_1","background":true,"unique":true}],"uuid":"ffc472f6bc824b1fb4a0b85fa4c1e4da","collectionName":"designationmasters","type":"collection"}

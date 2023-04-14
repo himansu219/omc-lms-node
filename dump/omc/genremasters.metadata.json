@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f87e5919893f48a087722fb3cd7184e0","collectionName":"genremasters","type":"collection"}
